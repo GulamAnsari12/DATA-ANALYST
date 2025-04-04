@@ -1,8 +1,8 @@
 #streamlit run Calculator.pytre
 import streamlit as st
 
-st.title ("Calculator")
-st.markdown("Welcome to my first Streamlit app")
+st.title ("Calculator🧮")
+st.markdown("Welcome to my first Streamlit app 🗃️")
 
 
 c1,c2 = st.columns(2)
